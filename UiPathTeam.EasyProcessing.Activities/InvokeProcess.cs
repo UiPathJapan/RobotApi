@@ -16,7 +16,6 @@ namespace UiPathTeam.EasyProcessing.Activities
 
         [Category("Input")]
         [DisplayName("Input Values")]
-        [Browsable(true)]
         public InArgument<IDictionary<string, object>> InputValues { get; set; }
 
         [Category("Output")]
