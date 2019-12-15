@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.27703.2035
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RunInParallel", "RunInParallel\RunInParallel.csproj", "{6906D12B-E7BB-484E-AEEF-BC41DED994F8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPathTeam.EasyProcessing.Activities", "UiPathTeam.EasyProcessing.Activities\UiPathTeam.EasyProcessing.Activities.csproj", "{ED5C8A98-86DB-4A46-9264-ABE7B265DF9C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UiPathTeam.EasyProcessing.Activities.Design", "UiPathTeam.EasyProcessing.Activities.Design\UiPathTeam.EasyProcessing.Activities.Design.csproj", "{86BAEC46-E17C-4707-B3B9-694DD44826F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{6906D12B-E7BB-484E-AEEF-BC41DED994F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6906D12B-E7BB-484E-AEEF-BC41DED994F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6906D12B-E7BB-484E-AEEF-BC41DED994F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED5C8A98-86DB-4A46-9264-ABE7B265DF9C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED5C8A98-86DB-4A46-9264-ABE7B265DF9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED5C8A98-86DB-4A46-9264-ABE7B265DF9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED5C8A98-86DB-4A46-9264-ABE7B265DF9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BAEC46-E17C-4707-B3B9-694DD44826F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86BAEC46-E17C-4707-B3B9-694DD44826F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86BAEC46-E17C-4707-B3B9-694DD44826F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86BAEC46-E17C-4707-B3B9-694DD44826F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
